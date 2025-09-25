@@ -17,11 +17,12 @@
     "username": null
   },
   "26E0-KXD9-UF0B-B5GY": {
-    "expires": 1758894866.5720453,
+    "expires": 1758808610.7189257,
     "hwid": "39376663393138303264636635313065663963343366336534373231366261386564646538623936386431323137653862396639626162383839386562306132",
     "used": true,
     "hwid_reset_used": false,
     "user_id": 7204665649,
-    "username": "@cocybcem"
+    "username": "@cocybcem",
+    "frozen": true
   }
 }
