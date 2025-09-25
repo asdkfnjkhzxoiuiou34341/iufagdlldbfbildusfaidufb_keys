@@ -13,5 +13,11 @@
     "expires": 1758879001.4364607,
     "hwid": null,
     "used": false
+  },
+  "78IY-SGNJ-8E3N-UKU5": {
+    "expires": 1758879713.9986346,
+    "hwid": null,
+    "used": false,
+    "hwid_reset_used": false
   }
 }
