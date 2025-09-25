@@ -63,5 +63,13 @@
     "hwid_reset_used": false,
     "user_id": null,
     "username": null
+  },
+  "GLXH-8P07-BRYX-EFTJ": {
+    "expires": 1758883825.8340673,
+    "hwid": null,
+    "used": false,
+    "hwid_reset_used": false,
+    "user_id": 7415951249,
+    "username": "@Oncelebrity"
   }
 }
