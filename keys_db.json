@@ -91,14 +91,14 @@
     "frozen": false,
     "activation_pending": true
   },
-  "PREMIUM-9XW49GIKE2KS": {
+  "PREMIUM-EMJSPTEB5KU0": {
     "type": "premium",
     "game": "blade_ball",
     "duration": 1,
-    "expires": 1759012698.5240495,
+    "expires": 1759012701.3517225,
     "hwid": null,
     "used": false,
-    "created": 1758926298.5240495,
+    "created": 1758926301.3517225,
     "order_id": "EDT6F2LX",
     "buyer_funpay_id": "16815741",
     "telegram_id": null,
