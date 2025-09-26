@@ -1,11 +1,4 @@
 {
   "sent_to_users": {},
-  "sent_to_orders": {
-    "EDT6F2LX": {
-      "buyer_funpay_id": "16815741",
-      "timestamp": 1758930049.6566143,
-      "date": "27.09.2025 07:40",
-      "thanks_sent": true
-    }
-  }
+  "sent_to_orders": {}
 }
