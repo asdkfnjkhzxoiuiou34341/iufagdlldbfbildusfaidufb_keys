@@ -156,5 +156,20 @@
     "activated": false,
     "frozen": false,
     "activation_pending": true
+  },
+  "PREMIUM-RT5GBD7151WW": {
+    "type": "premium",
+    "game": "yba",
+    "duration": 1,
+    "expires": 1759003090.9189618,
+    "hwid": null,
+    "used": false,
+    "created": 1758916690.9189618,
+    "order_id": "X6TGE453",
+    "buyer_id": null,
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
