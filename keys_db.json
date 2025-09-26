@@ -24,5 +24,17 @@
     "last_activity": null,
     "original_hwid": null,
     "frozen": false
+  },
+  "W5W8-YA65-QDTD-QHW1": {
+    "expires": 1758987857.3342283,
+    "hwid": null,
+    "used": false,
+    "hwid_reset_used": false,
+    "user_id": 7415951249,
+    "username": "@Oncelebrity",
+    "created": 1758901457.539835,
+    "last_activity": null,
+    "original_hwid": null,
+    "frozen": false
   }
 }
