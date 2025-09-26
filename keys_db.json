@@ -96,5 +96,20 @@
     "activated": false,
     "frozen": false,
     "activation_pending": true
+  },
+  "PREMIUM-EXBXOPNQ7VTE": {
+    "type": "premium",
+    "game": "yba",
+    "duration": 1,
+    "expires": 1758999570.16398,
+    "hwid": null,
+    "used": false,
+    "created": 1758913170.1639822,
+    "order_id": "X6TGE453",
+    "buyer_id": null,
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
