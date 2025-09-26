@@ -1,1 +1,17 @@
-{}
+{
+  "PREMIUM-5QLX88MQCU9G": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759013951.2853472,
+    "hwid": null,
+    "used": false,
+    "created": 1758927551.2853472,
+    "order_id": "DZDDLJ5V",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
+  }
+}
