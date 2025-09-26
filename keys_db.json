@@ -9,9 +9,11 @@
     "created": 1758925761.740664,
     "order_id": "EDT6F2LX",
     "buyer_funpay_id": "16815741",
-    "telegram_id": null,
-    "activated": false,
+    "telegram_id": 7415951249,
+    "activated": true,
     "frozen": false,
-    "activation_pending": true
+    "activation_pending": false,
+    "username": "@Oncelebrity",
+    "activation_time": 1758925812.8676393
   }
 }
