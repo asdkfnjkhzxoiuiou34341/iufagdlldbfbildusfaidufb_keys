@@ -43,5 +43,20 @@
     "activated": false,
     "frozen": false,
     "activation_pending": true
+  },
+  "PREMIUM-7MEB56HZAF77": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759014373.3024688,
+    "hwid": null,
+    "used": false,
+    "created": 1758927973.3024688,
+    "order_id": "DZDDLJ5V",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
