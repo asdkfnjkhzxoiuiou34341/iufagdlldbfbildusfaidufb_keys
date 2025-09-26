@@ -51,5 +51,20 @@
     "activated": false,
     "frozen": false,
     "activation_pending": true
+  },
+  "PREMIUM-KYT018C6XMQB": {
+    "type": "premium",
+    "game": "yba",
+    "duration": 1,
+    "expires": 1758999362.5697868,
+    "hwid": null,
+    "used": false,
+    "created": 1758912962.5697892,
+    "order_id": "X6TGE453",
+    "buyer_id": null,
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
