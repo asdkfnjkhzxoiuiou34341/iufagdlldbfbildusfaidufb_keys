@@ -89,15 +89,15 @@
     "frozen": false,
     "activation_pending": true
   },
-  "PREMIUM-JDYB9SO7E5V8": {
+  "PREMIUM-CHAVOV6Y216Z": {
     "type": "premium",
     "game": "blade_ball",
     "duration": 1,
-    "expires": 1759014603.9105642,
+    "expires": 1759014608.1068437,
     "hwid": null,
     "used": false,
-    "created": 1758928203.9105642,
-    "order_id": "DZDDLJ5V",
+    "created": 1758928208.1068437,
+    "order_id": "J679VDY8",
     "buyer_funpay_id": "16815741",
     "telegram_id": null,
     "activated": false,
