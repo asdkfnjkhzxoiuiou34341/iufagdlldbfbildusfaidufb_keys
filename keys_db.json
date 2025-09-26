@@ -43,9 +43,11 @@
     "created": 1758929317.8484895,
     "order_id": "BZX1SY63",
     "buyer_funpay_id": "16815741",
-    "telegram_id": null,
-    "activated": false,
+    "telegram_id": 7415951249,
+    "activated": true,
     "frozen": false,
-    "activation_pending": true
+    "activation_pending": false,
+    "username": "@Oncelebrity",
+    "activation_time": 1758929367.0704145
   }
 }
