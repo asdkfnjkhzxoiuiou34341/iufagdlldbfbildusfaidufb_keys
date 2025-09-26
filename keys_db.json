@@ -57,5 +57,20 @@
     "activated": false,
     "frozen": false,
     "activation_pending": true
+  },
+  "PREMIUM-FNWJ4LIV7J6T": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759010824.323388,
+    "hwid": null,
+    "used": false,
+    "created": 1758924424.323388,
+    "order_id": "Z2ENASB9",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
