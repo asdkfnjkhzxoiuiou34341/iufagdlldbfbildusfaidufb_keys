@@ -32,5 +32,19 @@
     "activation_pending": false,
     "username": "@Oncelebrity",
     "activation_time": 1758929012.867887
+  },
+  "WPRY-8R8E-TVAW-YWI6": {
+    "type": "free",
+    "expires": 1759015696.177232,
+    "hwid": null,
+    "used": false,
+    "hwid_reset_used": false,
+    "user_id": 7415951249,
+    "username": "@Oncelebrity",
+    "created": 1758929296.4000072,
+    "last_activity": null,
+    "original_hwid": null,
+    "frozen": false,
+    "key_source": "getkey_command"
   }
 }
