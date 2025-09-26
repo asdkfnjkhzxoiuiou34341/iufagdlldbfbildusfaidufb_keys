@@ -91,14 +91,14 @@
     "frozen": false,
     "activation_pending": true
   },
-  "PREMIUM-D7BA2O4WHB5F": {
+  "PREMIUM-FND3J3GVXY3F": {
     "type": "premium",
     "game": "blade_ball",
     "duration": 1,
-    "expires": 1759012761.6072242,
+    "expires": 1759012784.1144326,
     "hwid": null,
     "used": false,
-    "created": 1758926361.6072242,
+    "created": 1758926384.1144326,
     "order_id": "EDT6F2LX",
     "buyer_funpay_id": "16815741",
     "telegram_id": null,
