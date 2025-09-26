@@ -88,5 +88,20 @@
     "activated": false,
     "frozen": false,
     "activation_pending": true
+  },
+  "PREMIUM-JDYB9SO7E5V8": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759014603.9105642,
+    "hwid": null,
+    "used": false,
+    "created": 1758928203.9105642,
+    "order_id": "DZDDLJ5V",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
