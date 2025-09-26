@@ -60,5 +60,17 @@
     "activation_pending": false,
     "username": "@Oncelebrity",
     "activation_time": 1758918473.6776693
+  },
+  "MFFB-GFK3-ADGY-QLRM": {
+    "expires": 1759005092.7235036,
+    "hwid": null,
+    "used": false,
+    "hwid_reset_used": false,
+    "user_id": 7415951249,
+    "username": "@Oncelebrity",
+    "created": 1758918692.9441485,
+    "last_activity": null,
+    "original_hwid": null,
+    "frozen": false
   }
 }
