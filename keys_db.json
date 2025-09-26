@@ -42,5 +42,20 @@
     "multi_hwid": true,
     "custom_key": true,
     "admin_hwid": "39376663393138303264636635313065663963343366336534373231366261386564646538623936386431323137653862396639626162383839386562306132"
+  },
+  "PREMIUM-HOZHKQGDVEVI": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759010770.2833242,
+    "hwid": null,
+    "used": false,
+    "created": 1758924370.2833242,
+    "order_id": "Z2ENASB9",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
