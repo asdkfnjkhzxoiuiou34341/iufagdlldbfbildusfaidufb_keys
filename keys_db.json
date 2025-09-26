@@ -139,5 +139,20 @@
     "activation_pending": false,
     "username": "@Oncelebrity",
     "activation_time": 1758926967.4623597
+  },
+  "PREMIUM-DBSARO2DU8CH": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759013602.7472558,
+    "hwid": null,
+    "used": false,
+    "created": 1758927202.7472558,
+    "order_id": "V4HM63BG",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
