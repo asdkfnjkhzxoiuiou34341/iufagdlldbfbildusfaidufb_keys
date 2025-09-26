@@ -72,5 +72,20 @@
     "last_activity": null,
     "original_hwid": null,
     "frozen": false
+  },
+  "PREMIUM-HYX10Y35RDFX": {
+    "type": "premium",
+    "game": "yba",
+    "duration": 1,
+    "expires": 1759005128.993526,
+    "hwid": null,
+    "used": false,
+    "created": 1758918728.993526,
+    "order_id": "X6TGE453",
+    "buyer_id": null,
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
