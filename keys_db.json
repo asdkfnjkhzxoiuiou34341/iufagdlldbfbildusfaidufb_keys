@@ -9,11 +9,24 @@
     "created": 1758925761.740664,
     "order_id": "EDT6F2LX",
     "buyer_funpay_id": "16815741",
-    "telegram_id": 7415951249,
-    "activated": true,
+    "telegram_id": null,
+    "activated": false,
     "frozen": false,
-    "activation_pending": false,
-    "username": "@Oncelebrity",
-    "activation_time": 1758925812.8676393
+    "activation_pending": true
+  },
+  "PREMIUM-A9M430ST3641": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759012234.6960192,
+    "hwid": null,
+    "used": false,
+    "created": 1758925834.6960192,
+    "order_id": "EDT6F2LX",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
