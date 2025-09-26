@@ -11,7 +11,7 @@
     "buyer_funpay_id": "16815741",
     "telegram_id": 7204665649,
     "activated": true,
-    "frozen": true,
+    "frozen": false,
     "activation_pending": false,
     "username": "@cocybcem",
     "activation_time": 1758929571.360415
