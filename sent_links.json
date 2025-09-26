@@ -1,3 +1,12 @@
 {
-  "sent_orders": {}
+  "sent_orders": {
+    "Z3R598JG": {
+      "buyer_funpay_id": "16815741",
+      "key": "PREMIUM-83H30ATE1EJE",
+      "token": "4L0O-BQH",
+      "timestamp": 1758929939.9336908,
+      "date": "27.09.2025 07:38",
+      "welcome_sent": true
+    }
+  }
 }
