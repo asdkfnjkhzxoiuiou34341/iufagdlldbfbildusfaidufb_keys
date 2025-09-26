@@ -87,5 +87,20 @@
     "activated": false,
     "frozen": false,
     "activation_pending": true
+  },
+  "PREMIUM-T0CTRQZ61E7W": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759010929.406513,
+    "hwid": null,
+    "used": false,
+    "created": 1758924529.406513,
+    "order_id": "Z2ENASB9",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
