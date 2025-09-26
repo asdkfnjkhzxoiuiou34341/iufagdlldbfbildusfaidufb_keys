@@ -117,5 +117,20 @@
     "activated": false,
     "frozen": false,
     "activation_pending": true
+  },
+  "PREMIUM-JKY4CXKVQ2R1": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759011426.551292,
+    "hwid": null,
+    "used": false,
+    "created": 1758925026.551292,
+    "order_id": "Z2ENASB9",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
