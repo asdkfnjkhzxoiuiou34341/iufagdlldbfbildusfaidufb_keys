@@ -1,1 +1,17 @@
-{}
+{
+  "PREMIUM-83H30ATE1EJE": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759016299.415493,
+    "hwid": null,
+    "used": false,
+    "created": 1758929899.415493,
+    "order_id": "Z3R598JG",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
+  }
+}
