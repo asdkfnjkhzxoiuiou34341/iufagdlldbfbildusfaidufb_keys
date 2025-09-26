@@ -141,5 +141,20 @@
     "activated": false,
     "frozen": false,
     "activation_pending": true
+  },
+  "PREMIUM-0XV09YHZFQOO": {
+    "type": "premium",
+    "game": "yba",
+    "duration": 1,
+    "expires": 1759002926.9442809,
+    "hwid": null,
+    "used": false,
+    "created": 1758916526.9442809,
+    "order_id": "X6TGE453",
+    "buyer_id": null,
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
