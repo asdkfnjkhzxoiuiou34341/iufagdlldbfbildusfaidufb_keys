@@ -69,9 +69,11 @@
     "created": 1758928017.8122392,
     "order_id": "J679VDY8",
     "buyer_funpay_id": "16815741",
-    "telegram_id": null,
-    "activated": false,
+    "telegram_id": 7415951249,
+    "activated": true,
     "frozen": false,
-    "activation_pending": true
+    "activation_pending": false,
+    "username": "@Oncelebrity",
+    "activation_time": 1758928075.797743
   }
 }
