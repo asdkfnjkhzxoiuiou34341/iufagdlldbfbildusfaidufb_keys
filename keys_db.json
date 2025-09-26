@@ -29,14 +29,14 @@
     "frozen": false,
     "activation_pending": true
   },
-  "PREMIUM-TC6MEP57Z12D": {
+  "PREMIUM-WXTFQ4CPYU8A": {
     "type": "premium",
     "game": "blade_ball",
     "duration": 1,
-    "expires": 1759012300.4358392,
+    "expires": 1759012303.399879,
     "hwid": null,
     "used": false,
-    "created": 1758925900.4358392,
+    "created": 1758925903.399879,
     "order_id": "EDT6F2LX",
     "buyer_funpay_id": "16815741",
     "telegram_id": null,
