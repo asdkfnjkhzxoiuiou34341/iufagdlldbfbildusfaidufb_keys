@@ -39,7 +39,7 @@
     "last_activity": null,
     "original_hwid": null,
     "frozen": false,
-    "multi_hwid": false,
+    "multi_hwid": true,
     "custom_key": true,
     "admin_hwid": "39376663393138303264636635313065663963343366336534373231366261386564646538623936386431323137653862396639626162383839386562306132"
   }
