@@ -28,5 +28,20 @@
     "activated": false,
     "frozen": false,
     "activation_pending": true
+  },
+  "PREMIUM-FTQPNB34CQJ0": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759014243.841246,
+    "hwid": null,
+    "used": false,
+    "created": 1758927843.841246,
+    "order_id": "DZDDLJ5V",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
