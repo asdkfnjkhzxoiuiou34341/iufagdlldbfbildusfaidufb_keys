@@ -15,5 +15,20 @@
     "activation_pending": false,
     "username": "@Oncelebrity",
     "activation_time": 1758928584.7144043
+  },
+  "PREMIUM-QSZYSL3079QF": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759015364.9723105,
+    "hwid": null,
+    "used": false,
+    "created": 1758928964.9723105,
+    "order_id": "XBRSFYVF",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
