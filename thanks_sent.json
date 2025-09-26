@@ -5,5 +5,13 @@
       "timestamp": 1758922187.2681139,
       "date": "27.09.2025 05:29"
     }
+  },
+  "sent_to_orders": {
+    "J679VDY8": {
+      "buyer_funpay_id": "16815741",
+      "timestamp": 1758928499.4505222,
+      "date": "27.09.2025 07:14",
+      "thanks_sent": true
+    }
   }
 }
