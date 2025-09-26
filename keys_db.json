@@ -58,5 +58,20 @@
     "activated": false,
     "frozen": false,
     "activation_pending": true
+  },
+  "PREMIUM-6GRE48QT9P5D": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759014417.8122392,
+    "hwid": null,
+    "used": false,
+    "created": 1758928017.8122392,
+    "order_id": "J679VDY8",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
