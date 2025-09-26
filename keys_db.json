@@ -122,5 +122,20 @@
     "activation_pending": false,
     "username": "@Oncelebrity",
     "activation_time": 1758926705.1429586
+  },
+  "PREMIUM-DSXXGKH035FX": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759013305.5309012,
+    "hwid": null,
+    "used": false,
+    "created": 1758926905.5309012,
+    "order_id": "EDT6F2LX",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
