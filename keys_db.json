@@ -9,11 +9,24 @@
     "created": 1758927551.2853472,
     "order_id": "DZDDLJ5V",
     "buyer_funpay_id": "16815741",
-    "telegram_id": 7415951249,
-    "activated": true,
+    "telegram_id": null,
+    "activated": false,
     "frozen": false,
-    "activation_pending": false,
-    "username": "@Oncelebrity",
-    "activation_time": 1758927603.5463657
+    "activation_pending": true
+  },
+  "PREMIUM-50KMH5AI0D12": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759014019.4991603,
+    "hwid": null,
+    "used": false,
+    "created": 1758927619.4991603,
+    "order_id": "DZDDLJ5V",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
