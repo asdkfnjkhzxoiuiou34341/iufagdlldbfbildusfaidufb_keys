@@ -24,5 +24,17 @@
     "last_activity": null,
     "original_hwid": null,
     "frozen": false
+  },
+  "EEL2-ZTWP-ZNZV-045R": {
+    "expires": 1758976334.6808925,
+    "hwid": null,
+    "used": false,
+    "hwid_reset_used": false,
+    "user_id": 7099045579,
+    "username": "@TI1Tl",
+    "created": 1758889934.9499874,
+    "last_activity": null,
+    "original_hwid": null,
+    "frozen": false
   }
 }
