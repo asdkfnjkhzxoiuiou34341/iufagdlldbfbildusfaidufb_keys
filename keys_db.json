@@ -75,5 +75,20 @@
     "activated": false,
     "frozen": false,
     "activation_pending": true
+  },
+  "PREMIUM-CJVC8RUDX19W": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759012524.492883,
+    "hwid": null,
+    "used": false,
+    "created": 1758926124.492883,
+    "order_id": "EDT6F2LX",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
