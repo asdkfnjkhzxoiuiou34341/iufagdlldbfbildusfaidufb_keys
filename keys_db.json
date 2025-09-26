@@ -9,9 +9,11 @@
     "created": 1758929522.9113722,
     "order_id": "GQNR1KJW",
     "buyer_funpay_id": "16815741",
-    "telegram_id": null,
-    "activated": false,
+    "telegram_id": 7204665649,
+    "activated": true,
     "frozen": false,
-    "activation_pending": true
+    "activation_pending": false,
+    "username": "@cocybcem",
+    "activation_time": 1758929571.360415
   }
 }
