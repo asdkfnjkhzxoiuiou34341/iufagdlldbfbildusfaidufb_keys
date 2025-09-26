@@ -1,1 +1,17 @@
-{}
+{
+  "PREMIUM-3NAOLCIGHDF7": {
+    "type": "premium",
+    "game": "yba",
+    "duration": 1,
+    "expires": 1759006177.03349,
+    "hwid": null,
+    "used": false,
+    "created": 1758919777.03349,
+    "order_id": "X6TGE453",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
+  }
+}
