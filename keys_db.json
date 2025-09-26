@@ -36,5 +36,20 @@
     "last_activity": null,
     "original_hwid": null,
     "frozen": false
+  },
+  "PREMIUM-NIMMVGSJ6TEX": {
+    "type": "premium",
+    "game": "yba",
+    "duration": 1,
+    "expires": 1758999326.553304,
+    "hwid": null,
+    "used": false,
+    "created": 1758912926.5533068,
+    "order_id": "X6TGE453",
+    "buyer_id": null,
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
