@@ -9,9 +9,11 @@
     "created": 1758927551.2853472,
     "order_id": "DZDDLJ5V",
     "buyer_funpay_id": "16815741",
-    "telegram_id": null,
-    "activated": false,
+    "telegram_id": 7415951249,
+    "activated": true,
     "frozen": false,
-    "activation_pending": true
+    "activation_pending": false,
+    "username": "@Oncelebrity",
+    "activation_time": 1758927603.5463657
   }
 }
