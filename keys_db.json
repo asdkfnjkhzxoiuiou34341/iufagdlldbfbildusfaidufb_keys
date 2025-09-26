@@ -44,14 +44,14 @@
     "frozen": false,
     "activation_pending": true
   },
-  "PREMIUM-0GI4G8FXVSD2": {
+  "PREMIUM-QJ24X2DLJHDV": {
     "type": "premium",
     "game": "blade_ball",
     "duration": 1,
-    "expires": 1759012345.5899777,
+    "expires": 1759012348.654116,
     "hwid": null,
     "used": false,
-    "created": 1758925945.5899777,
+    "created": 1758925948.654116,
     "order_id": "EDT6F2LX",
     "buyer_funpay_id": "16815741",
     "telegram_id": null,
