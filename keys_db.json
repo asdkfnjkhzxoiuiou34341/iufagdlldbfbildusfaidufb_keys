@@ -15,5 +15,17 @@
     "activation_pending": false,
     "username": "@Oncelebrity",
     "activation_time": 1758919863.4681315
+  },
+  "W5HH-WICL-I6QT-UNPN": {
+    "expires": 1759006337.4785795,
+    "hwid": null,
+    "used": false,
+    "hwid_reset_used": false,
+    "user_id": 7415951249,
+    "username": "@Oncelebrity",
+    "created": 1758919937.6915212,
+    "last_activity": null,
+    "original_hwid": null,
+    "frozen": false
   }
 }
