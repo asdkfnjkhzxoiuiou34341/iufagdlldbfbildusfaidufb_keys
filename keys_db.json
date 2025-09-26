@@ -102,5 +102,20 @@
     "activated": false,
     "frozen": false,
     "activation_pending": true
+  },
+  "PREMIUM-BHXGA5WY5LVI": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759010974.4680214,
+    "hwid": null,
+    "used": false,
+    "created": 1758924574.4680214,
+    "order_id": "Z2ENASB9",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
