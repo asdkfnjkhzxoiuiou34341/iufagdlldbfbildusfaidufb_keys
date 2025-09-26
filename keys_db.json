@@ -97,6 +97,21 @@
     "frozen": false,
     "activation_pending": true
   },
+  "PREMIUM-2AYZCO0Z45HR": {
+    "type": "premium",
+    "game": "yba",
+    "duration": 1,
+    "expires": 1758999735.7531958,
+    "hwid": null,
+    "used": false,
+    "created": 1758913335.7531972,
+    "order_id": "X6TGE453",
+    "buyer_id": null,
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
+  },
   "PREMIUM-E81V6J876HKV": {
     "type": "premium",
     "game": "yba",
@@ -105,6 +120,21 @@
     "hwid": null,
     "used": false,
     "created": 1758913434.8341167,
+    "order_id": "X6TGE453",
+    "buyer_id": null,
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
+  },
+  "PREMIUM-8J2OFMUFGPS9": {
+    "type": "premium",
+    "game": "yba",
+    "duration": 1,
+    "expires": 1759002765.7322593,
+    "hwid": null,
+    "used": false,
+    "created": 1758916365.7322593,
     "order_id": "X6TGE453",
     "buyer_id": null,
     "telegram_id": null,
