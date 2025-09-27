@@ -1,12 +1,3 @@
 {
-  "sent_orders": {
-    "GJL49LPZ": {
-      "buyer_funpay_id": "16815741",
-      "key": "PREMIUM-HF6GVCFQWSY7",
-      "token": "ZS8P-MN8",
-      "timestamp": 1758970070.7690377,
-      "date": "27.09.2025 18:47",
-      "welcome_sent": true
-    }
-  }
+  "sent_orders": {}
 }
