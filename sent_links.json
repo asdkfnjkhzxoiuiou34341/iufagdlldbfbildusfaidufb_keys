@@ -6,7 +6,8 @@
       "token": "9I27-OSR",
       "timestamp": 1758970720.7590158,
       "date": "27.09.2025 18:58",
-      "welcome_sent": true
+      "welcome_sent": false,
+      "thanks_sent": true
     }
   }
 }
