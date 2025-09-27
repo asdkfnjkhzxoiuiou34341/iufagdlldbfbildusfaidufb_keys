@@ -203,7 +203,19 @@
       },
       "archived_at": 1758929876.9475698,
       "archived_date": "27.09.2025 07:37"
+    },
+    {
+      "order_id": "DZDDLJ5V",
+      "type": "thanks_sent",
+      "data": {
+        "buyer_funpay_id": "16815741",
+        "timestamp": 1758969805.460137,
+        "date": "27.09.2025 18:43",
+        "thanks_sent": true
+      },
+      "archived_at": 1758969930.2588341,
+      "archived_date": "27.09.2025 18:45"
     }
   ],
-  "last_archive": 1758929876.9475698
+  "last_archive": 1758969930.2588341
 }
