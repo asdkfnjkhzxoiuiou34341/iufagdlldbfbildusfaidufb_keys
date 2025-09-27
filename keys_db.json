@@ -88,5 +88,20 @@
     "activated": false,
     "frozen": false,
     "activation_pending": true
+  },
+  "PREMIUM-AX0HV0FXCPI9": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759064736.6478953,
+    "hwid": null,
+    "used": false,
+    "created": 1758978336.6478953,
+    "order_id": "MFYFR345",
+    "buyer_funpay_id": null,
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
