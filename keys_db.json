@@ -165,5 +165,20 @@
     "activated": false,
     "frozen": false,
     "activation_pending": true
+  },
+  "PREMIUM-T3AZIYLMV60G": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759065735.2039046,
+    "hwid": null,
+    "used": false,
+    "created": 1758979335.2039046,
+    "order_id": "DLU3A98H",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
