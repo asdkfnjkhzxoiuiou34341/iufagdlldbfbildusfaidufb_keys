@@ -14,11 +14,11 @@
     },
     "autolift": {
       "enabled": true,
-      "interval": 30,
+      "interval": 120,
       "selected_lots": [],
       "last_lift": 0,
       "paused": false
     }
   },
-  "updated": 1758999815.209402
+  "updated": 1758999845.156282
 }
