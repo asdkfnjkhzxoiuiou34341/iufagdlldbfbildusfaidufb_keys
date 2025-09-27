@@ -1,4 +1,11 @@
 {
   "sent_to_users": {},
-  "sent_to_orders": {}
+  "sent_to_orders": {
+    "Z3R598JG": {
+      "buyer_funpay_id": "16815741",
+      "timestamp": 1758969763.073197,
+      "date": "27.09.2025 18:42",
+      "thanks_sent": true
+    }
+  }
 }
