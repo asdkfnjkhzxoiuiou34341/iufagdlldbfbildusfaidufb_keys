@@ -88,9 +88,11 @@
     "created": 1758971460.142805,
     "order_id": "C9RCBHBY",
     "buyer_funpay_id": "16815741",
-    "telegram_id": null,
-    "activated": false,
+    "telegram_id": 6873850144,
+    "activated": true,
     "frozen": false,
-    "activation_pending": true
+    "activation_pending": false,
+    "username": "@marik_qz",
+    "activation_time": 1758971518.8529384
   }
 }
