@@ -1,12 +1,3 @@
 {
-  "sent_orders": {
-    "EVE2QBJD": {
-      "buyer_funpay_id": "16815741",
-      "key": "PREMIUM-3I17XVNVZOVJ",
-      "token": "NB1Z-E3U",
-      "timestamp": 1758982278.9508607,
-      "date": "27.09.2025 22:11",
-      "welcome_sent": true
-    }
-  }
+  "sent_orders": {}
 }
