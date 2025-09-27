@@ -150,5 +150,20 @@
     "activation_pending": false,
     "username": "@Oncelebrity",
     "activation_time": 1758979197.1230717
+  },
+  "PREMIUM-8T1XJBNGXV61": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759065662.3009303,
+    "hwid": null,
+    "used": false,
+    "created": 1758979262.3009303,
+    "order_id": "DLU3A98H",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
