@@ -21,8 +21,8 @@
     "game": "blade_ball",
     "duration": 1,
     "expires": 1759068641.8595943,
-    "hwid": null,
-    "used": false,
+    "hwid": "39376663393138303264636635313065663963343366336534373231366261386564646538623936386431323137653862396639626162383839386562306132",
+    "used": true,
     "created": 1758982241.8595943,
     "order_id": "EVE2QBJD",
     "buyer_funpay_id": "16815741",
@@ -31,6 +31,7 @@
     "frozen": false,
     "activation_pending": false,
     "username": "@Oncelebrity",
-    "activation_time": 1758982296.939885
+    "activation_time": 1758982296.939885,
+    "last_activity": 1758983154.5394971
   }
 }
