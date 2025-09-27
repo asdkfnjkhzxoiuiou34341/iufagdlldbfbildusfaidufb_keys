@@ -1,16 +1,9 @@
 {
-  "sent_to_users": {},
   "sent_to_orders": {
-    "DZDDLJ5V": {
+    "DLU3A98H": {
       "buyer_funpay_id": "16815741",
-      "timestamp": 1758969805.460137,
-      "date": "27.09.2025 18:43",
-      "thanks_sent": true
-    },
-    "TBAM1EFZ": {
-      "buyer_funpay_id": "16815741",
-      "timestamp": 1758970806.5412028,
-      "date": "27.09.2025 19:00",
+      "timestamp": 1758980220.8669899,
+      "date": "27.09.2025 21:37",
       "thanks_sent": true
     }
   }
