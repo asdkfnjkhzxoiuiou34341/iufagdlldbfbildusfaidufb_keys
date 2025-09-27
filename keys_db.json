@@ -45,5 +45,20 @@
     "activation_pending": false,
     "username": "@Oncelebrity",
     "activation_time": 1758970109.1150222
+  },
+  "PREMIUM-QSB61GW70IEX": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759057019.468708,
+    "hwid": null,
+    "used": false,
+    "created": 1758970619.468708,
+    "order_id": "TBAM1EFZ",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
