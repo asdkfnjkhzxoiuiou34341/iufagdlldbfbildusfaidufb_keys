@@ -73,5 +73,20 @@
     "activated": false,
     "frozen": false,
     "activation_pending": true
+  },
+  "PREMIUM-FE8OA753W50Y": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759064511.6143005,
+    "hwid": null,
+    "used": false,
+    "created": 1758978111.6143005,
+    "order_id": "MFYFR345",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
