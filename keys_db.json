@@ -103,5 +103,20 @@
     "activated": false,
     "frozen": false,
     "activation_pending": true
+  },
+  "PREMIUM-TIHOEN3VT341": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759064785.6884604,
+    "hwid": null,
+    "used": false,
+    "created": 1758978385.6884604,
+    "order_id": "MFYFR345",
+    "buyer_funpay_id": null,
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
