@@ -1,3 +1,12 @@
 {
-  "sent_orders": {}
+  "sent_orders": {
+    "DLU3A98H": {
+      "buyer_funpay_id": "16815741",
+      "key": "PREMIUM-T3AZIYLMV60G",
+      "token": "FM6T-E1V",
+      "timestamp": 1758979374.208242,
+      "date": "27.09.2025 21:22",
+      "welcome_sent": true
+    }
+  }
 }
