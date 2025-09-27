@@ -28,5 +28,20 @@
     "activated": false,
     "frozen": false,
     "activation_pending": true
+  },
+  "PREMIUM-VYSTSYSY6932": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759064004.2849898,
+    "hwid": null,
+    "used": false,
+    "created": 1758977604.2849898,
+    "order_id": "A1Z71P1M",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
