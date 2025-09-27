@@ -1,12 +1,3 @@
 {
-  "sent_orders": {
-    "DLU3A98H": {
-      "buyer_funpay_id": "16815741",
-      "key": "PREMIUM-JSB3T4IVEX5K",
-      "token": "SJHE-03F",
-      "timestamp": 1758979162.803746,
-      "date": "27.09.2025 21:19",
-      "welcome_sent": true
-    }
-  }
+  "sent_orders": {}
 }
