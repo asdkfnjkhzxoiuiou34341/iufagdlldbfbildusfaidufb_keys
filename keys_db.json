@@ -182,5 +182,20 @@
     "activation_pending": false,
     "username": "@Oncelebrity",
     "activation_time": 1758979384.3878057
+  },
+  "PREMIUM-2NXZYGEMOM70": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759066454.1850314,
+    "hwid": null,
+    "used": false,
+    "created": 1758980054.1850314,
+    "order_id": "DLU3A98H",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
