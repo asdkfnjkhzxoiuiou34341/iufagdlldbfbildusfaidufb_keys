@@ -176,9 +176,11 @@
     "created": 1758979335.2039046,
     "order_id": "DLU3A98H",
     "buyer_funpay_id": "16815741",
-    "telegram_id": null,
-    "activated": false,
+    "telegram_id": 7415951249,
+    "activated": true,
     "frozen": false,
-    "activation_pending": true
+    "activation_pending": false,
+    "username": "@Oncelebrity",
+    "activation_time": 1758979384.3878057
   }
 }
