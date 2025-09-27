@@ -33,5 +33,19 @@
     "username": "@Oncelebrity",
     "activation_time": 1758982296.939885,
     "last_activity": 1758983154.5394971
+  },
+  "MQJ1-A61V-59PV-A9M3": {
+    "type": "free",
+    "expires": 1759070996.0644488,
+    "hwid": null,
+    "used": false,
+    "hwid_reset_used": false,
+    "user_id": 7443938929,
+    "username": "@umneyshiy228",
+    "created": 1758984599.3607318,
+    "last_activity": null,
+    "original_hwid": null,
+    "frozen": false,
+    "key_source": "getkey_command"
   }
 }
