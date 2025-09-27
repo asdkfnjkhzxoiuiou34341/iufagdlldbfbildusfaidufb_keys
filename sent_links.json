@@ -1,3 +1,12 @@
 {
-  "sent_orders": {}
+  "sent_orders": {
+    "WREJZT9Y": {
+      "buyer_funpay_id": "16815741",
+      "key": "PREMIUM-WRU37NTA6T4L",
+      "token": "HMSP-HW1",
+      "timestamp": 1758999389.315402,
+      "date": "28.09.2025 02:56",
+      "welcome_sent": true
+    }
+  }
 }
