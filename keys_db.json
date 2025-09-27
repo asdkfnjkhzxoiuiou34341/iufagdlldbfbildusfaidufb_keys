@@ -28,5 +28,20 @@
     "activated": false,
     "frozen": false,
     "activation_pending": true
+  },
+  "PREMIUM-0MD0T2BQQJRM": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759056373.1154757,
+    "hwid": null,
+    "used": false,
+    "created": 1758969973.1154757,
+    "order_id": "GJL49LPZ",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
