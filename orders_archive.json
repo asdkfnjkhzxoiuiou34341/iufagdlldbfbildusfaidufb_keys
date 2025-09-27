@@ -215,7 +215,33 @@
       },
       "archived_at": 1758970001.0931206,
       "archived_date": "27.09.2025 18:46"
+    },
+    {
+      "order_id": "GJL49LPZ",
+      "type": "key_sent",
+      "data": {
+        "buyer_funpay_id": "16815741",
+        "key": "PREMIUM-HF6GVCFQWSY7",
+        "token": "ZS8P-MN8",
+        "timestamp": 1758970070.7690377,
+        "date": "27.09.2025 18:47",
+        "welcome_sent": true
+      },
+      "archived_at": 1758970403.4005003,
+      "archived_date": "27.09.2025 18:53"
+    },
+    {
+      "order_id": "DZDDLJ5V",
+      "type": "thanks_sent",
+      "data": {
+        "buyer_funpay_id": "16815741",
+        "timestamp": 1758969805.460137,
+        "date": "27.09.2025 18:43",
+        "thanks_sent": true
+      },
+      "archived_at": 1758970406.7323654,
+      "archived_date": "27.09.2025 18:53"
     }
   ],
-  "last_archive": 1758970001.0931206
+  "last_archive": 1758970406.7323654
 }
