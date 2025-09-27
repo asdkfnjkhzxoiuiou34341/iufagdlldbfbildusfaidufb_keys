@@ -59,14 +59,14 @@
     "frozen": false,
     "activation_pending": true
   },
-  "PREMIUM-GLQ7E6Y552Q4": {
+  "PREMIUM-CEJSX4243KA6": {
     "type": "premium",
     "game": "blade_ball",
     "duration": 1,
-    "expires": 1759064183.3100634,
+    "expires": 1759064210.9628952,
     "hwid": null,
     "used": false,
-    "created": 1758977783.3100634,
+    "created": 1758977810.9628952,
     "order_id": "A1Z71P1M",
     "buyer_funpay_id": "16815741",
     "telegram_id": null,
