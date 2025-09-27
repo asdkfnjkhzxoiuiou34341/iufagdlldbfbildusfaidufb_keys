@@ -4,8 +4,8 @@
     "game": "blade_ball",
     "duration": 1,
     "expires": 1759067489.3720145,
-    "hwid": "39376663393138303264636635313065663963343366336534373231366261386564646538623936386431323137653862396639626162383839386562306132",
-    "used": true,
+    "hwid": null,
+    "used": false,
     "created": 1758981089.3720145,
     "order_id": "VHBSV699",
     "buyer_funpay_id": "16815741",
@@ -15,5 +15,20 @@
     "activation_pending": false,
     "username": "@Oncelebrity",
     "activation_time": 1758981148.7379513
+  },
+  "PREMIUM-3I17XVNVZOVJ": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759068641.8595943,
+    "hwid": null,
+    "used": false,
+    "created": 1758982241.8595943,
+    "order_id": "EVE2QBJD",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
