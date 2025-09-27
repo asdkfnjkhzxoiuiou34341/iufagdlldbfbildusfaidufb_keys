@@ -58,5 +58,20 @@
     "activated": false,
     "frozen": false,
     "activation_pending": true
+  },
+  "PREMIUM-GLQ7E6Y552Q4": {
+    "type": "premium",
+    "game": "blade_ball",
+    "duration": 1,
+    "expires": 1759064183.3100634,
+    "hwid": null,
+    "used": false,
+    "created": 1758977783.3100634,
+    "order_id": "A1Z71P1M",
+    "buyer_funpay_id": "16815741",
+    "telegram_id": null,
+    "activated": false,
+    "frozen": false,
+    "activation_pending": true
   }
 }
