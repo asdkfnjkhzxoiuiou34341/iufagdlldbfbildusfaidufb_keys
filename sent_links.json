@@ -1,3 +1,12 @@
 {
-  "sent_orders": {}
+  "sent_orders": {
+    "C9RCBHBY": {
+      "buyer_funpay_id": "16815741",
+      "key": "PREMIUM-SA8V07H6PPXH",
+      "token": "7XN7-YPU",
+      "timestamp": 1758971503.4066703,
+      "date": "27.09.2025 19:11",
+      "welcome_sent": true
+    }
+  }
 }
